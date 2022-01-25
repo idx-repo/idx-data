@@ -1,31 +1,31 @@
-"Kode","Emiten","Rasio_Free_Float","Saat_Ini","Eval","Keterangan"
-"ADRO","Adaro Energy Tbk.",0.4371,13981063990,13981063990,"Tetap"
-"ANTM","Aneka Tambang Tbk.",0.3482,8367512277,8367512277,"Tetap"
-"ASII","Astra International Tbk.",0.4505,18237840690,18237840690,"Tetap"
-"BBCA","Bank Central Asia Tbk.",0.4275,6059301310,5953863265,"Berubah"
-"BBNI","Bank Negara Indonesia (Persero) Tbk.",0.3989,7364559570,7364559570,"Tetap"
-"BBRI","Bank Rakyat Indonesia (Persero) Tbk.",0.4321,44831616240,46982087687,"Berubah"
-"BBTN","Bank Tabungan Negara (Persero) Tbk.",0.4000,4193640000,4193640000,"Tetap"
-"BMRI","Bank Mandiri (Persero) Tbk.",0.3990,18433799999,18433799999,"Tetap"
-"BRPT","Barito Pacific Tbk.",0.2794,"-",26192972721,"Baru"
-"CPIN","Charoen Pokphand Indonesia Tbk",0.4012,6578877600,6578877600,"Tetap"
-"EXCL","XL Axiata Tbk.",0.3314,3757926042,3554157221,"Berubah"
-"GGRM","Gudang Garam Tbk.",0.1649,317282111,317282111,"Tetap"
-"HMSP","H.M. Sampoerna Tbk.",0.0744,8654064921,8654064921,"Tetap"
-"ICBP","Indofood CBP Sukses Makmur Tbk.",0.2000,2332381600,2332381600,"Tetap"
-"INCO","Vale Indonesia Tbk.",0.2028,"-",2015089492,"Baru"
-"INDF","Indofood Sukses Makmur Tbk.",0.4946,4342798947,4342798947,"Tetap"
-"INKP","Indah Kiat Pulp & Paper Tbk.",0.3441,1859587102,1882565230,"Berubah"
-"KLBF","Kalbe Farma Tbk.",0.4280,20381303093,20062552263,"Berubah"
-"MDKA","Merdeka Copper Gold Tbk.",0.5029,11834936416,11518849475,"Berubah"
-"MIKA","Mitra Keluarga Karyasehat Tbk.",0.3803,"-",5417886715,"Baru"
-"PGAS","Perusahaan Gas Negara Tbk.",0.4304,10431120977,10433545128,"Berubah"
-"PTBA","Bukit Asam Tbk.",0.3080,3548363049,3548363049,"Tetap"
-"SMGR","Semen Indonesia (Persero) Tbk.",0.4897,2904665344,2904665344,"Tetap"
-"TBIG","Tower Bersama Infrastructure Tbk.",0.3520,7929949806,7975263805,"Berubah"
-"TINS","Timah Tbk.",0.3496,"-",2603734608,"Baru"
-"TKIM","Pabrik Kertas Tjiwi Kimia Tbk.",0.2802,871702600,872325244,"Berubah"
-"TLKM","Telkom Indonesia (Persero) Tbk.",0.4785,47401270643,47401270643,"Tetap"
-"TOWR","Sarana Menara Nusantara Tbk.",0.4678,23941163513,23864641575,"Berubah"
-"UNTR","United Tractors Tbk.",0.4043,1508093635,1508093635,"Tetap"
-"UNVR","Unilever Indonesia Tbk.",0.1443,5501230000,5505045000,"Berubah"
+Kode,Emiten,Rasio_Free_Float,Saat_Ini,Eval,Keterangan
+ADRO,Adaro Energy Tbk.,43.71%,13981063990,13981063990,Tetap
+ANTM,Aneka Tambang Tbk.,34.83%,8367512277,8369915354,Berubah
+ASII,Astra International Tbk.,45.08%,18249985756,18249985756,Tetap
+BBCA,Bank Central Asia Tbk.,42.75%,28798822728,27008679938,Berubah
+BBNI,Bank Negara Indonesia (Persero) Tbk.,39.83%,7338712532,7353482268,Berubah
+BBRI,Bank Rakyat Indonesia (Persero) Tbk.,46.75%,48878735822,51491368228,Berubah
+BBTN,Bank Tabungan Negara (Persero) Tbk.,40.00%,4193640000,4193640000,Tetap
+BMRI,Bank Mandiri (Persero) Tbk.,39.89%,18433799999,18429179999,Berubah
+BRPT,Barito Pacific Tbk.,27.94%,26192972721,26192972721,Tetap
+BUKA,Bukalapak.com Tbk.,51.30%,48480373904,52870815929,Berubah
+CPIN,Charoen Pokphand Indonesia Tbk,40.12%,6578877600,6578877600,Tetap
+EMTK,Elang Mahkota Teknologi Tbk.,24.14%,-,14783758808,Baru
+EXCL,XL Axiata Tbk.,38.11%,3554157221,4087173557,Berubah
+ICBP,Indofood CBP Sukses Makmur Tbk.,20.00%,2332381600,2332381600,Tetap
+INCO,Vale Indonesia Tbk.,20.28%,2015089492,2015089492,Tetap
+INDF,Indofood Sukses Makmur Tbk.,49.57%,4342798947,4352457416,Berubah
+INKP,Indah Kiat Pulp & Paper Tbk.,34.20%,1884206525,1871076166,Berubah
+KLBF,Kalbe Farma Tbk.,42.52%,20039114702,19931301921,Berubah
+MDKA,Merdeka Copper Gold Tbk.,48.99%,11221086414,11221086414,Tetap
+MIKA,Mitra Keluarga Karyasehat Tbk.,36.82%,5343805697,5245505886,Berubah
+PGAS,Perusahaan Gas Negara Tbk.,43.04%,10433545128,10433545128,Tetap
+PTBA,Bukit Asam Tbk.,33.43%,3851356387,3851356387,Tetap
+SMGR,Semen Indonesia (Persero) Tbk.,48.97%,2904665344,2904665344,Tetap
+TBIG,Tower Bersama Infrastructure Tbk.,35.21%,7975263805,7977529505,Berubah
+TINS,Timah Tbk.,34.96%,2603734608,2603734608,Tetap
+TLKM,Telkom Indonesia (Persero) Tbk.,47.85%,47401270643,47401270643,Tetap
+TOWR,Sarana Menara Nusantara Tbk.,46.78%,23864641575,23864641575,Tetap
+UNTR,United Tractors Tbk.,40.43%,1508093635,1508093635,Tetap
+UNVR,Unilever Indonesia Tbk.,14.43%,5505045000,5505045000,Tetap
+WSKT,Waskita Karya (Persero) Tbk.,24.65%,-,7100877929,Baru
