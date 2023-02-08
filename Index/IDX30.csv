@@ -1,31 +1,31 @@
-Kode,Emiten,Rasio_Free_Float,Saat_Ini,Eval,Keterangan
-ADRO,Adaro Energy Tbk.,43.71%,13981063990,13981063990,Tetap
-ANTM,Aneka Tambang Tbk.,34.83%,8367512277,8369915354,Berubah
-ASII,Astra International Tbk.,45.08%,18249985756,18249985756,Tetap
-BBCA,Bank Central Asia Tbk.,42.75%,28798822728,27008679938,Berubah
-BBNI,Bank Negara Indonesia (Persero) Tbk.,39.83%,7338712532,7353482268,Berubah
-BBRI,Bank Rakyat Indonesia (Persero) Tbk.,46.75%,48878735822,51491368228,Berubah
-BBTN,Bank Tabungan Negara (Persero) Tbk.,40.00%,4193640000,4193640000,Tetap
-BMRI,Bank Mandiri (Persero) Tbk.,39.89%,18433799999,18429179999,Berubah
-BRPT,Barito Pacific Tbk.,27.94%,26192972721,26192972721,Tetap
-BUKA,Bukalapak.com Tbk.,51.30%,48480373904,52870815929,Berubah
-CPIN,Charoen Pokphand Indonesia Tbk,40.12%,6578877600,6578877600,Tetap
-EMTK,Elang Mahkota Teknologi Tbk.,24.14%,-,14783758808,Baru
-EXCL,XL Axiata Tbk.,38.11%,3554157221,4087173557,Berubah
-ICBP,Indofood CBP Sukses Makmur Tbk.,20.00%,2332381600,2332381600,Tetap
-INCO,Vale Indonesia Tbk.,20.28%,2015089492,2015089492,Tetap
-INDF,Indofood Sukses Makmur Tbk.,49.57%,4342798947,4352457416,Berubah
-INKP,Indah Kiat Pulp & Paper Tbk.,34.20%,1884206525,1871076166,Berubah
-KLBF,Kalbe Farma Tbk.,42.52%,20039114702,19931301921,Berubah
-MDKA,Merdeka Copper Gold Tbk.,48.99%,11221086414,11221086414,Tetap
-MIKA,Mitra Keluarga Karyasehat Tbk.,36.82%,5343805697,5245505886,Berubah
-PGAS,Perusahaan Gas Negara Tbk.,43.04%,10433545128,10433545128,Tetap
-PTBA,Bukit Asam Tbk.,33.43%,3851356387,3851356387,Tetap
-SMGR,Semen Indonesia (Persero) Tbk.,48.97%,2904665344,2904665344,Tetap
-TBIG,Tower Bersama Infrastructure Tbk.,35.21%,7975263805,7977529505,Berubah
-TINS,Timah Tbk.,34.96%,2603734608,2603734608,Tetap
-TLKM,Telkom Indonesia (Persero) Tbk.,47.85%,47401270643,47401270643,Tetap
-TOWR,Sarana Menara Nusantara Tbk.,46.78%,23864641575,23864641575,Tetap
-UNTR,United Tractors Tbk.,40.43%,1508093635,1508093635,Tetap
-UNVR,Unilever Indonesia Tbk.,14.43%,5505045000,5505045000,Tetap
-WSKT,Waskita Karya (Persero) Tbk.,24.65%,-,7100877929,Baru
+Kode|Emiten|Rasio_Free_Float|Saat_Ini|Eval|Keterangan
+ADRO|Adaro Energy Indonesia Tbk.|40.58%|12,979,903,380|12,979,903,380|Tetap
+AMRT|Sumber Alfaria Trijaya Tbk.|45.38%|-|18,843,818,871|Baru
+ANTM|Aneka Tambang Tbk.|34.83%|8,369,915,354|8,369,915,354|Tetap
+ARTO|Bank Jago Tbk.|27.87%|3,823,119,506|3,823,119,506|Tetap
+ASII|Astra International Tbk.|45.08%|18,249,985,756|18,249,985,756|Tetap
+BBCA|Bank Central Asia Tbk.|42.41%|31,659,753,658|30,283,025,104|Berubah
+BBNI|Bank Negara Indonesia (Persero) Tbk.|39.95%|7,375,636,872|7,375,636,872|Tetap
+BBRI|Bank Rakyat Indonesia (Persero) Tbk.|46.78%|61,818,706,353|54,053,571,692|Berubah
+BMRI|Bank Mandiri (Persero) Tbk.|39.95%|18,461,519,999|18,456,899,999|Berubah
+BRPT|Barito Pacific Tbk.|27.64%|26,192,972,721|25,911,731,067|Berubah
+BUKA|Bukalapak.com Tbk.|50.41%|51,912,339,149|51,955,811,285|Berubah
+CPIN|Charoen Pokphand Indonesia Tbk|40.12%|6,578,877,600|6,578,877,600|Tetap
+EMTK|Elang Mahkota Teknologi Tbk.|25.07%|14,722,517,057|15,353,307,097|Berubah
+ESSA|Surya Esa Perkasa Tbk.|63.87%|-|10,002,608,527|Baru
+GOTO|GoTo Gojek Tokopedia Tbk.|61.99%|786,299,212,796|734,187,199,898|Berubah
+HRUM|Harum Energy Tbk.|18.60%|2,514,366,600|2,514,366,600|Tetap
+INCO|Vale Indonesia Tbk.|20.36%|2,016,083,126|2,023,038,563|Berubah
+INDF|Indofood Sukses Makmur Tbk.|49.57%|4,352,457,416|4,352,457,416|Tetap
+ITMG|Indo Tambangraya Megah Tbk.|34.74%|392,535,945|392,535,945|Tetap
+KLBF|Kalbe Farma Tbk.|41.10%|19,246,925,138|19,265,675,187|Berubah
+MDKA|Merdeka Copper Gold Tbk.|46.70%|11,259,767,310|11,259,767,310|Tetap
+MEDC|Medco Energi Internasional Tbk.|25.61%|-|6,437,388,824|Baru
+PGAS|Perusahaan Gas Negara Tbk.|43.04%|10,433,545,128|10,433,545,128|Tetap
+PTBA|Bukit Asam Tbk.|33.43%|3,851,356,387|3,851,356,387|Tetap
+SMGR|Semen Indonesia (Persero) Tbk.|48.77%|3,319,056,985|3,292,726,101|Berubah
+TBIG|Tower Bersama Infrastructure Tbk.|24.59%|5,870,428,556|5,571,356,164|Berubah
+TLKM|Telkom Indonesia (Persero) Tbk.|47.85%|47,401,270,643|47,401,270,643|Tetap
+TOWR|Sarana Menara Nusantara Tbk.|41.94%|21,405,736,650|21,395,533,725|Berubah
+UNTR|United Tractors Tbk.|37.80%|1,445,054,352|1,409,991,081|Berubah
+UNVR|Unilever Indonesia Tbk.|14.45%|5,508,860,000|5,512,675,000|Berubah
